@@ -1,0 +1,12 @@
+html, body {
+    width: 100%;
+    min-height: 100vh;
+  }
+  
+  .custom-card {
+    max-width: 500px;
+  }
+  
+  .card-icon {
+    font-size: 100px;
+  }
